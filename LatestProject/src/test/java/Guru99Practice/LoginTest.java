@@ -20,7 +20,7 @@ public class LoginTest {
   public void validloginTest() {
 
 
-//Test1
+//Test2
 	  //Login to page
 	  WebDriverManager.chromedriver().setup();
 	   driver=new ChromeDriver();
