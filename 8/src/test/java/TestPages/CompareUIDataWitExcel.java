@@ -21,7 +21,7 @@ public class CompareUIDataWitExcel {
 
 	WebDriver driver = null;
 	ExcelUtils getDataFromExcel = new ExcelUtils();
-//test1
+//test12
 	@BeforeTest
 	public void setUpTest() {
 
