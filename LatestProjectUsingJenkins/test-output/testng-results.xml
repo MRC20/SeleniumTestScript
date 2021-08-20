@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-19T17:58:36 IST" name="Default suite" finished-at="2021-08-19T17:58:55 IST" duration-ms="18948">
+    <groups>
+    </groups>
+    <test started-at="2021-08-19T17:58:36 IST" name="Default test" finished-at="2021-08-19T17:58:55 IST" duration-ms="18948">
+      <class name="Guru99Practice.LoginTest">
+        <test-method signature="validloginTest()[pri:1, instance:Guru99Practice.LoginTest@6379eb]" started-at="2021-08-19T17:58:36 IST" name="validloginTest" finished-at="2021-08-19T17:58:44 IST" duration-ms="7685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validloginTest -->
+        <test-method signature="invalidUsernameLoginTest()[pri:2, instance:Guru99Practice.LoginTest@6379eb]" started-at="2021-08-19T17:58:44 IST" name="invalidUsernameLoginTest" finished-at="2021-08-19T17:58:49 IST" duration-ms="5557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUsernameLoginTest -->
+        <test-method signature="invalidPasswordLoginTest()[pri:3, instance:Guru99Practice.LoginTest@6379eb]" started-at="2021-08-19T17:58:49 IST" name="invalidPasswordLoginTest" finished-at="2021-08-19T17:58:54 IST" duration-ms="4732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPasswordLoginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Guru99Practice.LoginTest@6379eb]" started-at="2021-08-19T17:58:54 IST" name="closeBrowser" finished-at="2021-08-19T17:58:55 IST" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Guru99Practice.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
